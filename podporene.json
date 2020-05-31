@@ -47,5 +47,20 @@
     "lastSelector": "#comic-nav > a:nth-child(4) > img",
     "lastIndex": "0",
     "nsfw": false
+  },
+  {
+  "url": "https://strongfemaleprotagonist.com",
+  "title": "Strong Female Protagonist",
+  "imageUrl": "https://strongfemaleprotagonist.com/wp-content/uploads/2018/09/SFPdnd.png",
+  "imageSelector": "img.alignnone",
+  "imageIndex": "0",
+  "firstSelector": "a:has(img[src~=first-button.png])",
+  "firstIndex": "0",
+  "prevSelector": "a:has(img[src~=left-arrow.png])",
+  "prevIndex": "0",
+  "nextSelector": "a:has(img[src~=right-arrow.png])",
+  "nextIndex": "0",
+  "lastSelector": "a:has(img[src~=last-button.png])",
+  "lastIndex": "0"
   }
 ]
