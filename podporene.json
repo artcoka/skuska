@@ -1,3 +1,4 @@
+  
 [
   {
     "url": "https://ctccomic.com",
@@ -12,7 +13,7 @@
     "nextSelector": ".cc-next",
     "nextIndex": "0",
     "lastSelector": ".cc-last",
-    "lastIndex": "0",
+    "lastIndex": "0"
   },
   {
     "url": "https://killsixbilliondemons.com",
@@ -27,7 +28,7 @@
     "nextSelector": ".navi",
     "nextIndex": "4",
     "lastSelector": ".navi",
-    "lastIndex": "5",
+    "lastIndex": "5"
   },
   {
     "url": "https://risingsand.glass",
@@ -42,7 +43,7 @@
     "nextSelector": ".navi",
     "nextIndex": "2",
     "lastSelector": ".navi",
-    "lastIndex": "3",
+    "lastIndex": "3"
   },
   {
     "url": "https://tenearthshatteringblows.com",
@@ -57,7 +58,7 @@
     "nextSelector": ".navi",
     "nextIndex": "2",
     "lastSelector": ".navi",
-    "lastIndex": "3",
+    "lastIndex": "3"
   },
   {
     "url": "https://www.automansdaughter.com",
@@ -72,6 +73,6 @@
     "nextSelector": ".cc-next",
     "nextIndex": "0",
     "lastSelector": ".cc-last",
-    "lastIndex": "0",
+    "lastIndex": "0"
   }
 ]
