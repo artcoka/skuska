@@ -1,0 +1,51 @@
+[
+  {
+    "url": "https://risingsand.glass",
+    "title": "RISING SAND",
+    "imageUrl": "https://risingsand.glass/wp-content/uploads/2019/09/HeaderDal.png",
+    "imageSelector": "#comic > img",
+    "imageIndex": "0",
+    "firstSelector": ".navi",
+    "firstIndex": "0",
+    "prevSelector": ".navi",
+    "prevIndex": "1",
+    "nextSelector": ".navi",
+    "nextIndex": "2",
+    "lastSelector": ".navi",
+    "lastIndex": "3",
+    "donateUrl": "https://www.patreon.com/risingsand",
+    "donateUrl": "https://ko-fi.com/risingsand"
+  },
+  {
+    "url": "https://killsixbilliondemons.com",
+    "title": "Kill Six Billion Demons",
+    "imageUrl": "https://killsixbilliondemons.com/wp-content/uploads/2016/06/cover1.jpg",
+    "imageSelector": "div.comic > img",
+    "imageIndex": "0",
+    "firstSelector": ".navi",
+    "firstIndex": "0",
+    "prevSelector": ".navi",
+    "prevIndex": "1",
+    "nextSelector": ".navi",
+    "nextIndex": "4",
+    "lastSelector": ".navi",
+    "lastIndex": "5",
+    "donateUrl": "http://www.patreon.com/killsixbilliondemons"
+  },
+  {
+    "url": "http://www.nevershutup.com/001-with-great-power/",
+    "title": "Horse Power",
+    "imageUrl": "http://horsepower.emeraldcoastcomics.net/views/images/hplogo.png",
+    "imageSelector": "#comic > img",
+    "imageIndex": "0",
+    "firstSelector": "http://www.nevershutup.com/001-with-great-power/",
+    "firstIndex": "-1",
+    "prevSelector": "#comic-nav > a:nth-child(2) > img",
+    "prevIndex": "0",
+    "nextSelector": "#comic-nav > a:nth-child(3) > img",
+    "nextIndex": "0",
+    "lastSelector": "#comic-nav > a:nth-child(4) > img",
+    "lastIndex": "0",
+    "nsfw": false
+  }
+]
