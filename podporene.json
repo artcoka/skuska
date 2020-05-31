@@ -33,21 +33,6 @@
     "donateUrl": "http://www.patreon.com/killsixbilliondemons"
   },
   {
-    "url": "http://www.nevershutup.com/001-with-great-power/",
-    "title": "Horse Power",
-    "imageUrl": "http://horsepower.emeraldcoastcomics.net/views/images/hplogo.png",
-    "imageSelector": "#comic > img",
-    "imageIndex": "0",
-    "firstSelector": "http://www.nevershutup.com/001-with-great-power/",
-    "firstIndex": "-1",
-    "prevSelector": "#comic-nav > a:nth-child(2) > img",
-    "prevIndex": "0",
-    "nextSelector": "#comic-nav > a:nth-child(3) > img",
-    "nextIndex": "0",
-    "lastSelector": "#comic-nav > a:nth-child(4) > img",
-    "lastIndex": "0"
-  },
-  {
   "url": "https://strongfemaleprotagonist.com",
   "title": "Strong Female Protagonist",
   "imageUrl": "https://strongfemaleprotagonist.com/wp-content/uploads/2018/09/SFPdnd.png",
