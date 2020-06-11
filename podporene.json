@@ -91,6 +91,21 @@
     "lastIndex": "3"
   },
   {
+    "url": "https://strongfemaleprotagonist.com/issue-8/page-14-10/",
+    "title": "Strong Female Protagonist",
+    "imageUrl": "https://strongfemaleprotagonist.com/wp-content/uploads/2018/09/SFPdnd.png",
+    "imageSelector": "img.alignnone",
+    "imageIndex": "0",
+    "firstSelector": "a:has(img[src~=first-button.png])",
+    "firstIndex": "0",
+    "prevSelector": "a:has(img[src~=left-arrow.png])",
+    "prevIndex": "0",
+    "nextSelector": "a:has(img[src~=right-arrow.png])",
+    "nextIndex": "0",
+    "lastSelector": "a:has(img[src~=last-button.png])",
+    "lastIndex": "0"
+  },
+  {
     "url": "https://tenearthshatteringblows.com",
     "title": "Ten Earth Shattering Blows",
     "imageUrl": "https://tenearthshatteringblows.com/wp-content/uploads/2017/09/About_bannerteaser2.jpg",
@@ -118,6 +133,23 @@
     "nextSelector": ".cc-next",
     "nextIndex": "0",
     "lastSelector": ".cc-last",
+    "lastIndex": "0"
+  },
+  {
+    "url": "http://teadragonsociety.com/comic/page-46/",
+    "title": "The Tea Dragon Society",
+    "imageUrl": "https://teadragonsociety.com/wp-content/uploads/2016/05/Front-Page-Splash-1.png",
+    "imageSelector": "#comic img",
+    "imageIndex": "0",
+    "firstSelector": ".comic-nav-first",
+    "firstIndex": "0",
+    "prevSelector": ".comic-nav-previous",
+    "prevIndex": "0",
+	"randomSelector":".comic-nav-random",
+	"randomIndex":"0",
+    "nextSelector": ".comic-nav-next",
+    "nextIndex": "0",
+    "lastSelector": ".comic-nav-last",
     "lastIndex": "0"
   }
 ]
